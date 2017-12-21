@@ -29,7 +29,7 @@ public class TestBase {
 	
 	@BeforeSuite
 	public void testInitializer() {
-		log.info("Test Before suite started.");
+		log.info("Test Before suite started..");
 		
 	}
 }
